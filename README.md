@@ -5,7 +5,9 @@
 - 💬 Đang tìm người viết cũng dùng Github để sửa sách cùng
 - 📫 Dù biết là không ai thèm liên lạc nhưng nếu cần có thể nhắn tin qua Discord.
 
-Phần lớn các dự án ở dưới đây đều chưa xong (nghĩa là "vẫn có thể được cải thiện để tốt hơn"). Các cuốn sách được viết trong trang này sẽ đều được phát hành dưới giấy phép [The Unlicense](https://unlicense.org/). Còn các bản dịch thì được phát hành dưới giấy phép [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). Trong các trang của từng cuốn sách mình vẫn để là GPL3 mà chưa sửa :<
+Phần lớn các dự án ở dưới đây đều chưa xong (nghĩa là "vẫn có thể được cải thiện để tốt hơn"). Các cuốn sách được viết trong trang này sẽ đều được phát hành dưới giấy phép [The Unlicense](https://unlicense.org/). Còn các bản dịch thì được phát hành dưới giấy phép [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). Trong các trang của từng cuốn sách mình vẫn để là GPL3 (Mình sẽ cập nhật lại sau khi hoàn thành được phiên bản đầu tiên ở mỗi cuốn sách).
+
+Mình không phải là lập trình viên đâu nha, không biết gì về lập trình hết.
 
 ### Đọc các cuốn sách đã/đang/sẽ được dịch/tổng hợp
 
